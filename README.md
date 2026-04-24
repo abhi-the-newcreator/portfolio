@@ -27,14 +27,6 @@ This portfolio showcases my projects, skills, and experience in Electronics & Co
 
 ---
 
-📂 Projects
-
-Here are some of my key projects:
-
-- 🔹 Project 1 - (Add your project description here)
-- 🔹 Project 2 - (Add your project description here)
-- 🔹 Project 3 - (Add your project description here)
-
 
 ---
 
